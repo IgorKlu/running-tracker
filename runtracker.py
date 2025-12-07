@@ -1,9 +1,3 @@
-# 1. Po uruchomieniu spróbuj wczytać dane z pliku (jeśli go nie ma, zacznij z pustą listą)
-# 2. Wyświetl menu z opcjami
-# 3. Jeśli użytkownik wybierze 1 → dodaj trening
-# 4. Jeśli wybierze 2 → pokaż wszystkie treningi
-# 5. Jeśli wybierze 3 → pokaż statystyki
-# 6. Jeśli wybierze 4 → zapisz dane do pliku i zakończ program
 import json
 
 runs = []
